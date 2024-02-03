@@ -1,2 +1,2 @@
 # HBFC-bank-Solution-Project
-The "HBFC Bank Solution" project involves utilizing Excel tools for data analysis. It focuses on analysing data within the context of HSBC Bank.
+In the HBFC Bank Personal Loans Project, the objective is to increase the sales of personal loans among their savings account holders. The bank is planning a campaign to promote personal loans, but before launching it, they aim to analyze data from the last marketing campaign. The goal is to gain insights into the characteristics of potential loan customers, enabling a more targeted approach to reaching out to prospective customers in future campaigns. The bank has sought your assistance in conducting the analysis of the previous campaign data.
